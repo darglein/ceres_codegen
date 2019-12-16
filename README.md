@@ -12,3 +12,5 @@ Build instructions:
 Platform | Compiler | INSTALL | EXPORT_BUILD_DIR 
 --- | --- | --- | --- 
 Linux | gcc | :heavy_check_mark: | :heavy_check_mark:
+MacOS | clang | TODO | TODO
+Windows | msvc | TODO | TODO
