@@ -6,3 +6,9 @@ Build instructions:
 - Run CMake with -DCODE_GENERATION=ON
 - Build and install Ceres
 - Build and run this sample
+
+## Tested Configurations
+
+Platform | Compiler | INSTALL | EXPORT_BUILD_DIR 
+--- | --- | --- | --- 
+Linux | gcc | :heavy_check_mark: | :heavy_check_mark:
